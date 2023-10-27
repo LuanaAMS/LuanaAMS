@@ -2,11 +2,11 @@
 I am a dedicated multimedia technician, currently studying Information Systems at UNA. Furthermore, I worked as a Scrum Master intern for 9 months, leading six Squads in IT projects mainly focused on E-Commerce. During this period, I was co-leader of the Discord implementation project as a centralized communication tool in two areas of the company, which brought a significant improvement in problem solving and daily information exchange. I'm always looking to learn, and I'm passionate about finding creative solutions to business and technology challenges. I'm excited to continue to grow in my Projects career and explore new opportunities.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/LuanaAMS) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luana-ams/) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ####Program Languages
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
