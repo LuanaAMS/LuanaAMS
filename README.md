@@ -31,13 +31,13 @@ I am a dedicated multimedia technician, currently studying Information Systems a
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LuanaAMS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=LuanaAMS&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=LuanaAMS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuanaAMS&theme=dark&hide_border=true)<br/>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaAMS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaAMS&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
