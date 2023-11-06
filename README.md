@@ -33,18 +33,19 @@ I am a dedicated multimedia technician, currently studying Information Systems a
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 <h1 align="center">📊 GitHub Stats:</h1>
+
 ![](https://github-readme-stats.vercel.app/api?username=LuanaAMS&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LuanaAMS&theme=dark&hide_border=true)<br/>
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanaAMS&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <h1 align="center">🔝 Top Contributed Repo</h1>
+
 ![](https://github-contributor-stats.vercel.app/api?username=LuanaAMS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <h2 align="center">✍️ Quotes</h1>
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 <h2 align="center">😂 Random Meme</h3>
