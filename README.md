@@ -1,5 +1,8 @@
 
-<h1 align="center">💫 About Me:</h1> 
+<!--<img src="https://giphy.com/embed/uVsU9lfPSWPBV8yhzi" width="446" height="480" class="giphy-embed" allowFullScreen> -->
+ 
+<h1 align="center"> About Me:</h1> 
+
 I am a dedicated multimedia technician, currently studying Information Systems at UNA. Furthermore, I worked as a Scrum Master intern for 9 months, leading six Squads in IT projects mainly focused on E-Commerce. During this period, I was co-leader of the Discord implementation project as a centralized communication tool in two areas of the company, which brought a significant improvement in problem solving and daily information exchange. I'm always looking to learn, and I'm passionate about finding creative solutions to business and technology challenges. I'm excited to continue to grow in my Projects career and explore new opportunities.
 
 <div align=center>
