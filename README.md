@@ -1,7 +1,3 @@
-
-<img align=center src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtjaGI5eG5xc3Jua3pzN3Y0M2lqNHE1ZGFucTk1cGUzcGFhZWJqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uVsU9lfPSWPBV8yhzi/giphy.gif" width="100" height="100">
-
- 
 <h1 align="center"> About Me:</h1> 
 
 <div align=justify>
@@ -65,5 +61,7 @@
 
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtjaGI5eG5xc3Jua3pzN3Y0M2lqNHE1ZGFucTk1cGUzcGFhZWJqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uVsU9lfPSWPBV8yhzi/giphy.gif" width="100" height="100">
+
+<img align=left src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtjaGI5eG5xc3Jua3pzN3Y0M2lqNHE1ZGFucTk1cGUzcGFhZWJqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uVsU9lfPSWPBV8yhzi/giphy.gif" width="100" height="100">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
