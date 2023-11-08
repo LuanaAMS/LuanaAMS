@@ -1,10 +1,12 @@
 <h1 align="center"> About Me:</h1> 
 
 <div align=justify>
- I am a dedicated multimedia technician, currently studying Information Systems at UNA. Furthermore, I worked as a Scrum Master intern for 9 months, leading six Squads in IT projects mainly focused on E-Commerce. During this period, I was co-leader of the Discord implementation project as a centralized communication tool in two areas of the company, which brought a significant improvement in problem   solving and daily information exchange. I'm always looking to learn, and I'm passionate about finding creative solutions to business and technology challenges. I'm excited to continue to grow in my Projects career and explore new opportunities.
+ I am a dedicated multimedia technician, currently studying Information Systems at UNA. Furthermore, I worked as a Scrum Master intern for 9 months, leading six Squads in IT projects mainly focused on E-Commerce. During this period, I was co-leader of the Discord implementation project as a centralized communication tool in two areas of the company, which   
+ brought a significant improvement in problem   solving and daily information exchange. I'm always looking to learn, and I'm passionate about finding creative solutions to business and technology challenges. I'm excited to continue to grow in my Projects career and explore new opportunities.
 </div>
 
 <div align=center>
+ 
  <h1> Socials:</h1>
   
   [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/LuanaAMS) 
@@ -16,7 +18,7 @@
  
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 
-  Program Libraries/Frameworks
+ Program Libraries/Frameworks
 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
  
@@ -56,17 +58,22 @@
   ![](https://github-contributor-stats.vercel.app/api?username=LuanaAMS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
  
  
- <h2> Quotes</h1>
+ <h2>Quotes</h2>
  
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-</div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=lulunaw&icon=8&color=1)](https://visitcount.itsvg.in)
+  
+</div>
+
 
 
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtjaGI5eG5xc3Jua3pzN3Y0M2lqNHE1ZGFucTk1cGUzcGFhZWJqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uVsU9lfPSWPBV8yhzi/giphy.gif" width="100" height="100">
 
 <img align=left src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemtjaGI5eG5xc3Jua3pzN3Y0M2lqNHE1ZGFucTk1cGUzcGFhZWJqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uVsU9lfPSWPBV8yhzi/giphy.gif" width="100" height="100">
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
